@@ -1,7 +1,13 @@
-﻿# KNN算法
+# KNN算法
 
 ------
 [kNN算法说明][1] https://www.cnblogs.com/magic-girl/p/python-kNN.html
+
+**曼哈顿距离 和 欧几里得距离**
+http://blog.csdn.net/tianlan_sharon/article/details/50904641
+
+
+
 ```
 #coding:utf-8
 
